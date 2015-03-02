@@ -7,3 +7,5 @@ Test of GIT
 2015-03-02: Test tagging release B
 
 2015-03-02: Cleanup of README and also release C
+
+2015-03-02: Testing to change user from mattiasjohanssonhl to Mattias Johansson
